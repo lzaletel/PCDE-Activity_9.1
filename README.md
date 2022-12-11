@@ -1,3 +1,1 @@
-# GitHubMiniLesson
-# GitHubMiniLesson
-# PCDE-Activity_9.1
+# Repository for PCDE-Activity_9.1
